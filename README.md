@@ -5,13 +5,13 @@
 ###
 
 <div align="center">
-  <a href="wr.do/s/linkedin-ammar-danial?original_referer=" target="_blank">
+  <a href="https://wr.do/s/linkedin-ammar-danial?original_referer=" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="wr.do/s/insta-ammar-danial" target="_blank">
+  <a href="https://wr.do/s/insta-ammar-danial" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="wr.do/s/fb-work-ammar-danial" target="_blank">
+  <a href="https://wr.do/s/fb-work-ammar-danial" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
 </div>
