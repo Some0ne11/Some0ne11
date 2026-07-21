@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Danial<br><br>- 🔭 I’m studying as Software Engineer<br>- 📚 I'm currently learning Flutter and Dart<br>- ⚡ In my free time I do ...</p>
+<p align="left">I'm Danial<br><br>- 🔭 I’m studying as Software Engineer<br>- 📚 I'm currently learning Flutter, Dart and Golang<br>- ⚡ In my free time I do ...</p>
 
 ###
 
